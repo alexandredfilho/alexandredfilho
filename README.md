@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <a href="https://github.com/alexandredfilho">
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
@@ -37,6 +40,3 @@
   <a href="https://api.whatsapp.com/send?phone=5511975598115" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alexandre-domingos-filho/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink" target="_blank"> </a>
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
