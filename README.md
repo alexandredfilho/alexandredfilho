@@ -5,10 +5,6 @@
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-<div align="center">
-  <img height="250em" width="1000px" src="https://wakatime.com/share/@c18dd1bb-c1f6-40cc-ba9a-9c431e10f82c/1086cc04-89af-467b-be7c-3e48d4f4d330.svg">
-</div>
-
 <div>
   <!--START_SECTION:waka-->
 
