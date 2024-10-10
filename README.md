@@ -1,14 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-Ruby         6 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.78 %
-TypeScript   3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
-YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
   <a href="https://github.com/alexandredfilho">
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
@@ -47,4 +36,16 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
   <a href="mailto:alexandre.dfilho@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://api.whatsapp.com/send?phone=5511975598115" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alexandre-domingos-filho/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink" target="_blank"> </a>
+</div>
+<div>
+  <!--START_SECTION:waka-->
+
+```txt
+Ruby         6 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.78 %
+TypeScript   3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
+YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+```
+
+<!--END_SECTION:waka-->
 </div>
