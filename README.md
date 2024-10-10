@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://github.com/alexandredfilho">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredfilho&theme=tokyonight&hide_border=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="123em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredfilho&theme=tokyonight&hide_border=true"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredfilho&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <div>
