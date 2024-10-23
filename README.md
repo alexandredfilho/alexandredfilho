@@ -9,9 +9,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs          ██████████████████░░░░░░░   71.96 %
-Ruby         5 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.83 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   7 hrs 45 mins   █████████████████░░░░░░░░   68.50 %
+Ruby         3 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
 ```
 
 <!--END_SECTION:waka-->
