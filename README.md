@@ -9,8 +9,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 45 mins   █████████████████░░░░░░░░   68.50 %
-Ruby         3 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+TypeScript   6 hrs 59 mins   ████████████████▒░░░░░░░░   65.16 %
+Ruby         3 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+SSH Key      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
