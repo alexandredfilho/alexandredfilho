@@ -10,11 +10,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Ruby         8 hrs 50 mins         ██████████░░░░░░░░░░░░░░░   40.22 %
-TypeScript   5 hrs 55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-Markdown     3 hrs 12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Sass         1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JavaScript   47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Ruby         7 hrs 22 mins         ████████▒░░░░░░░░░░░░░░░░   33.52 %
+TypeScript   6 hrs 29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Markdown     3 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Sass         1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JavaScript   52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
